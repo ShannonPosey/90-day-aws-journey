@@ -8,9 +8,9 @@
 
 This repository documents my intensive 90-day journey to become an AWS Cloud Engineer. Starting from scratch, I'm committing to learning AWS services, DevOps practices, Infrastructure as Code, and building real-world projects to become employment-ready.
 
-**Start Date:** December 3, 2025
+**Start Date:** December 4, 2025
 
-**Target End Date:** March 3, 2026
+**Target End Date:** March 4, 2026
 
 **Daily Commitment:** 4 hours/day (Mon-Fri), 2 hours/day (Weekends)
 
