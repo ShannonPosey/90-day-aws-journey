@@ -229,15 +229,13 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 ### Target Certifications
 
-- [ ] **AWS Certified Cloud Practitioner** (Optional - Month 1)
+- [X] **AWS Certified Cloud Practitioner** (Optional - Month 1)
 - [ ] **AWS Certified Solutions Architect - Associate** (Target - Month 3)
 - [ ] **AWS Certified Developer - Associate** (Future goal)
 
 ### Study Resources
 
 - [AWS Skill Builder](https://skillbuilder.aws/) - Free official training
-- [Stephane Maarek's Udemy Courses](https://www.udemy.com/user/stephane-maarek/)
-- [A Cloud Guru](https://acloudguru.com/)
 - AWS Documentation
 - Practice exams
 
