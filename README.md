@@ -8,10 +8,9 @@
 
 This repository documents my intensive 90-day journey to become an AWS Cloud Engineer. Starting from scratch, I'm committing to learning AWS services, DevOps practices, Infrastructure as Code, and building real-world projects to become employment-ready.
 
-**Start Date:** December 4, 2025  
+**Start Date:** December 4, 2025
 
-**Target End Date:** March 4, 2026
-
+**Target End Date:** March 4, 2026  
 **Daily Commitment:** 4 hours/day (Mon-Fri), 2 hours/day (Weekends)
 
 ---
@@ -216,7 +215,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 ### Daily Log
 
 #### Week 1
-- **Day 1:** [Date] - Cloud computing basics, AWS account setup ✅
+- **Day 1:** 12/04/2025 - Cloud computing basics, AWS account setup ✅
 - **Day 2:** [Date] - IAM fundamentals, created first user
 - **Day 3:** [Date] - Launched first EC2 instance
 - **Day 4:** [Date] - S3 bucket creation and static website
@@ -229,8 +228,10 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 ### Target Certifications
 
-- [X] **AWS Certified Cloud Practitioner** (Optional - Month 1)
+- [X] **AWS Certified Cloud Practitioner** Obtain October 2025
+
 - [ ] **AWS Certified Solutions Architect - Associate** (Target - Month 3)
+
 - [ ] **AWS Certified Developer - Associate** (Future goal)
 
 ### Study Resources
@@ -290,23 +291,11 @@ terraform destroy
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Blog:** [Your Blog URL]
-- **Twitter:** [@YourHandle]
-- **Email:** [your.email@example.com]
+- **LinkedIn:** www.linkedin.com/in/shannonposey
+- **Email:** shannonposey11@gmail.com
 
 ---
 
-## 📖 Blog Posts
-
-Writing technical blog posts to solidify learning and help others:
-
-1. [My First Week with AWS: From Zero to Running Web Server](#)
-2. [Understanding AWS VPC: A Beginner's Guide](#)
-3. [Building High Availability with Auto Scaling Groups](#)
-4. [Infrastructure as Code with Terraform: Complete Guide](#)
-
----
 
 ## 💡 Resources
 
@@ -348,16 +337,6 @@ Writing technical blog posts to solidify learning and help others:
 
 ---
 
-## 📅 Study Schedule
-
-**Weekdays (Monday - Friday):**
-- 1:00 PM - 2:00 PM: Video lessons and reading
-- 2:00 PM - 4:00 PM: Hands-on practice in AWS
-- 4:00 PM - 5:00 PM: Project work and documentation
-
-**Weekends (Saturday - Sunday):**
-- 10:00 AM - 12:00 PM: Review, catch-up, and light practice
-
 **Daily Routine:**
 - ☕ Start with clear daily goals
 - 📚 Learn new concept
@@ -394,7 +373,7 @@ I am committed to learning 4 hours every day. I will not give up. Every small st
 
 ---
 
-**Last Updated:** [Current Date]  
+**Last Updated:** 12/03/2025
 **Current Phase:** Phase 1 - Foundations  
 **Next Milestone:** Complete Week 1 Fundamentals
 
