@@ -229,7 +229,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 ### Target Certifications
 
-- [X] **[AWS Certified Cloud Practitioner]** (https://www.credly.com/badges/dfec53da-5380-4686-a57e-374d0e8f39ac/public_url)
+- [X] **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/dfec53da-5380-4686-a57e-374d0e8f39ac/public_url)
 
 - [ ] **AWS Certified Solutions Architect - Associate** (Target - Month 3)
 
