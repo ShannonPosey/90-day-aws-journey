@@ -10,7 +10,8 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 **Start Date:** December 4, 2025
 
-**Target End Date:** March 4, 2026  
+**Target End Date:** March 4, 2026  .
+
 **Daily Commitment:** 4 hours/day (Mon-Fri), 2 hours/day (Weekends)
 
 ---
