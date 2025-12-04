@@ -8,8 +8,7 @@
 
 - [X] Understand what cloud computing is
 - [X] Understand the difference in cloud service models
-- [X] Understand what the benefits of cloud are
--
+- [X] Understand what the benefits of the cloud are
 
 
 ---
@@ -21,12 +20,12 @@
 **Key Takeaways:**
 1. The cloud is basically renting computers and infrastructure over the internet instead of owning them.
 2. There are three service models - IaaS, PaaS, and SaaS - and the deeper you go down the stack, the more control you get.
-3. The benefits of cloud come down to flexibility, cost savings, scalability, and not having to babysit physical hardward.
+3. The benefits of cloud come down to flexibility, cost savings, scalability, and not having to babysit physical hardware.
 
 **New Terms:**
 - **IaaS**: Infrastructure as a Service - renting servers, storage, networks (think sandbox-level control).
 - **PaaS**: Platform as a Service - renting a pre-built environment to deploy apps without managing the server itself.
-- **SaaS**: Software as a Service - fully managed apps you just log into and use
+- **SaaS**: Software as a Service - fully managed apps you log into and use
 
 ---
 
@@ -92,7 +91,7 @@ The cloud is not magic. It's someone else's computer, but optimized, distributed
 
 **Questions to Answer:**
 - What does AWS manage for me, and what will I still own?
-- How do I build without accidentally lauching a $400 experiment?
+- How do I build without accidentally launching a $400 experiment?
 
 ---
 
@@ -109,7 +108,7 @@ The cloud is not magic. It's someone else's computer, but optimized, distributed
 
 **Daily Win:** Understanding cloud models without spiraling into acronym despair
 
-**Tomorrow's Promise:** Deploy intentionally, learn deeply, and never launch services on accident
+**Tomorrow's Promise:** Deploy intentionally, learn deeply, and never launch services by accident
 
 ---
 
