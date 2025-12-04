@@ -10,8 +10,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 **Start Date:** December 4, 2025
 
-**Target End Date:** March 4, 2026  .
-
+**Target End Date:** March 4, 2026  
 **Daily Commitment:** 4 hours/day (Mon-Fri), 2 hours/day (Weekends)
 
 ---
@@ -229,7 +228,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 ### Target Certifications
 
-- [X] **AWS Certified Cloud Practitioner** Obtain October 2025
+- [X] **{AWS Certified Cloud Practitioner}** (https://www.credly.com/badges/dfec53da-5380-4686-a57e-374d0e8f39ac/public_url)
 
 - [ ] **AWS Certified Solutions Architect - Associate** (Target - Month 3)
 
