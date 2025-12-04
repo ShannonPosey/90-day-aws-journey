@@ -2,7 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazon-aws)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-1%2F90-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-0%2F90-success?style=for-the-badge)
 
 ## 📖 About My Cloud Journey
 
