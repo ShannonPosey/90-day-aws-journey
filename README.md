@@ -237,6 +237,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 ### Study Resources
 
+- [AWS Cloud Institue](https://aws.amazon.com/training/aws-cloud-institute/)
 - [AWS Skill Builder](https://skillbuilder.aws/) - Free official training
 - AWS Documentation
 - Practice exams
@@ -306,11 +307,13 @@ terraform destroy
 - [AWS Architecture Center](https://aws.amazon.com/architecture/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 
+
 ### Community & Learning
+- [AWS Cloud Institute](https://aws.amazon.com/training/aws-cloud-institute/)
 - [r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/)
 - [r/devops](https://www.reddit.com/r/devops/)
 - [AWS re:Invent Videos](https://www.youtube.com/user/AmazonWebServices)
-- [FreeCodeCamp AWS Tutorials](https://www.youtube.com/c/Freecodecamp)
+
 
 ### Tools & Utilities
 - [AWS Pricing Calculator](https://calculator.aws/)
