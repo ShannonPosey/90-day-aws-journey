@@ -370,7 +370,7 @@ This repository is for educational purposes. Feel free to use it as a template f
 > "The journey of a thousand miles begins with a single step." - Lao Tzu
 
 **Why I'm Doing This:**
-[Add your personal motivation - why you want to become a cloud engineer]
+I'm transitioning into cloud engineering after discovering my passion for infrastructure during a cybersecurity bootcamp. I love understanding how systems work behind the scenes—building and connecting components to create functional, scalable solutions. With no prior IT background, I'm making this career change because I'm driven by curiosity about how technology works at its core, and I see cloud computing as the future of infrastructure. I want to build the systems that power modern applications.
 
 **Daily Affirmation:**
 I am committed to learning 4 hours every day. I will not give up. Every small step forward is progress. In 90 days, I will be a cloud engineer.
