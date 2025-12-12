@@ -165,25 +165,26 @@
 # No CLI commands used today
 ```
 
-**Result:** I created users and groups. Each user was attached to a group with specific policies.
+**Result:** I created users and groups, assigning each user to a group with the exact policies they needed. One user had full EC2 access, while the other was limited to read-only permissions.
+
 
 **Screenshots:** Yes
-
+User with read-only permission for the EC2(./screenshot/EC2-read-only-permission.png)
 ---
 
 ## 💡 Key Learning
 
 **One thing I'll remember from today:**
-Never use the root account for everyday tasks - IAM exists for a reason, and using the right identities keeps my environment secure and manageable 
+Never use the root account for everyday tasks - IAM exists for a reason, and using the right identities keeps my environment secure and manageable.
 
 **How I'll use it:**
-By creating dedicated users, groups, and roles for every task going forward. No more "quick fixes' using root. Everything I build from here on will follow least privilege and clean permission boundaries
+By creating dedicated users, groups, and roles for every task going forward. No more "quick fixes' using root. Everything I build from here on will follow least privilege and clean permission boundaries.
 
 ---
 
 ## 🐛 Problems Faced
 
-**Problem:** One of the users I created had full EC2 access on paper, but still couldn't connect to the instance using EC2 Instance Connect. The permission looked right, but weren't complete
+**Problem:** One of the users I created had full EC2 access on paper, but still couldn't connect to the instance using EC2 Instance Connect. The permission looked right, but weren't complete.
 Original Permission(./screenshot/permission-before.png)
 
 **Solution:** I reviewed the IAM policy and discovered the missing EC2 Instance Connect permission. After attaching the correct policy, the user could connect successfully.
