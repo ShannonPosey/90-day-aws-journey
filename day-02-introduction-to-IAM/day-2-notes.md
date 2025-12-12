@@ -34,12 +34,7 @@
 **What I did:**
 # [Create IAM Users with EC2 Access](https://app.tango.us/app/workflow/8730f5e4-6374-41bd-b30f-ee8f5480d130?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
-[View most recent version on Tango.ai](https://app.tango.us/app/workflow/8730f5e4-6374-41bd-b30f-ee8f5480d130?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-
 ***
-
-
 
 ## # [Console Home | Console Home | us-east-1](https://us-east-1.console.aws.amazon.com/console/home?nc2=h_si&region=us-east-1&src=header-signin#)
 
@@ -172,7 +167,7 @@
 
 **Result:** I created users and groups. Each user was attached to a group with specific policies.
 
-**Screenshots:** [Yes/No - saved in ./screenshots/]
+**Screenshots:** Yes
 
 ---
 
