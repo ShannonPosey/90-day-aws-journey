@@ -2,7 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazon-aws)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-1%2F90-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-2%2F90-success?style=for-the-badge)
 
 ## 📖 About My Cloud Journey
 
@@ -199,7 +199,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 | Week | Focus Area | Status | Completion |
 |------|-----------|--------|------------|
-| Week 1 | Cloud & AWS Fundamentals | 🔄 In Progress | 1% |
+| Week 1 | Cloud & AWS Fundamentals | 🔄 In Progress | 2% |
 | Week 2 | VPC & Networking | ⏳ Planned | 0% |
 | Week 3 | EC2 & Load Balancing | ⏳ Planned | 0% |
 | Week 4 | Databases & Storage | ⏳ Planned | 0% |
@@ -217,7 +217,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 #### Week 1
 - **Day 1:** 12/04/2025 - Cloud computing basics, AWS account setup ✅
-- **Day 2:** 12/05/2025 - IAM fundamentals, created first user
+- **Day 2:** 12/12/2025 - IAM fundamentals, created first user
 - **Day 3:** [Date] - Launched first EC2 instance
 - **Day 4:** [Date] - S3 bucket creation and static website
 - **Day 5:** [Date] - Connected EC2 to S3 using IAM roles
@@ -319,6 +319,7 @@ terraform destroy
 - [AWS Pricing Calculator](https://calculator.aws/)
 - [CIDR Calculator](https://www.ipaddressguide.com/cidr)
 - [draw.io for Architecture Diagrams](https://app.diagrams.net/)
+- [Tango.ai](https://tango.ai?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 ---
 
@@ -377,7 +378,7 @@ I am committed to learning 4 hours every day. I will not give up. Every small st
 
 ---
 
-**Last Updated:** 12/03/2025
+**Last Updated:** 12/12/2025
 **Current Phase:** Phase 1 - Foundations  
 **Next Milestone:** Complete Week 1 Fundamentals
 
