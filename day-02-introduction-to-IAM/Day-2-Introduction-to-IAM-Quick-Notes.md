@@ -168,8 +168,9 @@
 **Result:** I created users and groups, assigning each user to a group with the exact policies they needed. One user had full EC2 access, while the other was limited to read-only permissions.
 
 
-**Screenshots:** Yes
-User with read-only permission for the EC2(./screenshot/EC2-read-only-permission.png)
+**Screenshots:** 
+
+User with read-only permission for the EC2 (/screenshot/EC2-read-only-permission.png)
 ---
 
 ## 💡 Key Learning
