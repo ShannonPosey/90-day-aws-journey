@@ -279,7 +279,7 @@ Exited out of the SSH connection
 
  
 
-**One thing I'll remember from today:** 
+**One thing I'll remember from today:**
 An EC2 instance isn't usable until networking, security groups, and key pair permissions are all aligned - compute alone isn't enough 
 
  
