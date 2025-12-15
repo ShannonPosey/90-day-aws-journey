@@ -34,7 +34,7 @@
 
 **Exercise/Project:** Installing Apache Web Server on EC2 Instance
 
-EC2 Architecture Diagram(./screenshots/EC2-instance.png)
+EC2 Architecture Diagram (./screenshots/EC2-instance.png)
 
 **What I did:**
 - Created an EC2 instance
