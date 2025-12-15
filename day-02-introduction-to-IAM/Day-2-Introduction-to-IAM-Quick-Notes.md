@@ -32,7 +32,7 @@
 **Exercise/Project:** Added IAM user and groups
 
 ![IAM Architecture Diagram](./screenshot/IAM.png)
-IAM Architecture Diagram
+
 
 
 **What I did:**
