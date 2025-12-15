@@ -34,7 +34,7 @@
 
 **Exercise/Project:** Installing Apache Web Server on EC2 Instance
 
-EC2 Architecture Diagram(./screenshot/EC2-instance.drawio)
+EC2 Architecture Diagram(./screenshot/EC2-instance.drawio.png)
 
 **What I did:**
 - Created an EC2 instance
@@ -125,6 +125,14 @@ whoami - show information about the user
 **Result:** [What works now]
 
 **Screenshots:** [Yes/No - saved in ./screenshots/]
+
+Key pair permission before changing to allow SSH (./screenshots/apache-web-server-key-pair-permission-setting-before.png)
+
+Changed permission to the key pair(./screenshots/key-pair-permission-setting-changed.png)
+
+SSH into the EC2 Instance(./screenshots/ssh-to-ec2-instance.png)
+
+Install Apache Web Server(./screenshots/updating-instance-and-installing-apache-web-server.png)
 
 
 
