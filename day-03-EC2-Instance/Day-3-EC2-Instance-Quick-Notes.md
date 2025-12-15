@@ -262,7 +262,7 @@ Stop the Apache Web Server
 
  
 
-Exited out of the SSH connection 
+Exited out of the SSH connection
 ![Exited SSH](./screenshots/exit-out-of-ssh.png) 
 
  
