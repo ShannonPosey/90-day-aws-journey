@@ -30,6 +30,8 @@
 ## 🛠️ What I Built
 
 **Exercise/Project:** Added IAM user and groups
+IAM Architecture Diagram
+![IAM Architecture Diagram](./screenshot/IAM.png)
 
 **What I did:**
 # [Create IAM Users with EC2 Access](https://app.tango.us/app/workflow/8730f5e4-6374-41bd-b30f-ee8f5480d130?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
@@ -170,7 +172,9 @@
 
 **Screenshots:** 
 
-User with read-only permission for the EC2 (./screenshot/EC2-read-only-permission.png)
+User with read-only permission for the EC2
+
+![User with read-only permission for the EC2](./screenshot/EC2-read-only-permission.png)
 ---
 
 ## 💡 Key Learning
