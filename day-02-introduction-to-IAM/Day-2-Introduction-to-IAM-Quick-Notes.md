@@ -170,7 +170,7 @@
 
 **Screenshots:** 
 
-User with read-only permission for the EC2 (/screenshot/EC2-read-only-permission.png)
+User with read-only permission for the EC2 (./screenshot/EC2-read-only-permission.png)
 ---
 
 ## 💡 Key Learning
