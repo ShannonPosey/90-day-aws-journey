@@ -37,11 +37,11 @@
 
 **What I did:**
 - Created an S3 bucket following AWS naming conventions
-- Uploaded static website files (HTML and tex objects)
+- Uploaded static website files (HTML and text objects)
 - Configured bucket permissions and object ownership
 - Disabled public access blocks intentionally and securely
 - Made objects publicly readable to host a static website
-- Verified access via the S3 public URl
+- Verified access via the S3 public URL
 
 
 
@@ -55,7 +55,7 @@
 
 
 **Result:**
-I successgully hosted a static website using Amazon S3 and accessed it publicly through a browser.  This confirmed my understanding of buckets, objects, permissions, and how S3 can be used for real-world workloads beyond simple file storage. 
+I successfully hosted a static website using Amazon S3 and accessed it publicly through a browser.  This confirmed my understanding of buckets, objects, permissions, and how S3 can be used for real-world workloads beyond simple file storage. 
 
 **Screenshots:** 
 
@@ -185,10 +185,10 @@ I successgully hosted a static website using Amazon S3 and accessed it publicly 
 ## 💡 Key Learning
 
 **One thing I'll remember from today:**
-S3 is simple by design, but access control is powerful - storage without intentional permissions ie either useless or dangerous.
+S3 is simple by design, but access control is powerful - storage without intentional permissions i.e. either useless or dangerous.
 
 **How I'll use it:**
-I'll use S3 as the backbone for static sites, logs, backups, and future data pipelines, always choosing storage classed and permissions deliberatley instead of defaulting blindly.
+I'll use S3 as the backbone for static sites, logs, backups, and future data pipelines, always choosing storage classed and permissions deliberately instead of defaulting blindly.
 
 ---
 
@@ -201,7 +201,7 @@ Understanding why objects weren't publicly accessible even after upload
 I learned that S3 blocks public access by default. I had to intentionally update bucket permission, object ownership, and ACL settings to allow public access.
 
 **Lesson:** 
-AWS defaults prioritie security - accessibility is always something you must explicitly allow.
+AWS defaults priorities security - accessibility is always something you must explicitly allow.
 
 ---
 
@@ -224,11 +224,11 @@ AWS defaults prioritie security - accessibility is always something you must exp
 **To-Do:**
 - [ ] Create an IAM roles for EC2
 - [ ] Understand how applications authenticate to AWS services
-- [ ] Undersand why IAM roles are better than access keys for EC2
+- [ ] Understand why IAM roles are better than access keys for EC2
 
 **Questions to Answer:**
 - When should S3 not be used?
-- How does S3 fit into production cloud architecture
+- How does S3 fit into production cloud architecture?
 
 ---
 
@@ -243,9 +243,9 @@ AWS defaults prioritie security - accessibility is always something you must exp
 
 ---
 
-**Daily Win:** Hosting a live static website on S3 fully understanding why it works - not just that it workss.
+**Daily Win:** Hosting a live static website on S3 fully understanding why it works - not just that it works.
 
-**Tomorrow's Promise:** I wll treat cloud storage as architecture, not just a place to dump files.
+**Tomorrow's Promise:** I will treat cloud storage as architecture, not just a place to dump files.
 
 ---
 
