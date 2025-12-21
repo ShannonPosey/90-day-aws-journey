@@ -1,7 +1,7 @@
 # Day 3 — EC2 Compute Fundamentals
 **90-Day Cloud Engineering Journey**
 
-**Date:** 12/15/2025<br>  
+**Date:** 12/15/2025<br>
 **Time Invested:**  6 hours<br>
 **Status:**  Complete<br>
 
@@ -9,7 +9,7 @@
 
 ## Objective
 
-Provision and operate an **EC2 instance** end-to-end, focusing on compute selection, secure access, networking, and service lifecylce management.<br>
+Provision and operate an **EC2 instance** end-to-end, focusing on compute selection, secure access, networking, and service lifecycle management.<br>
 This day emphasized **understanding why instance fail to connect,** not just launching them.
 
 ---
@@ -22,7 +22,6 @@ This day emphasized **understanding why instance fail to connect,** not just lau
 - Security Groups and SSH key pairs are **mandatory gatekeepers**
 - Compute is unusable without **aligned networking and permissions**
 
-
 ---
 
 ## Deliverable
@@ -30,7 +29,7 @@ This day emphasized **understanding why instance fail to connect,** not just lau
 **EC2 Web Server Deployment:**
 - Launched an EC2 instance using an Amazon Linux AMI
 - Selected an appropriate instance type for lightweight web hosting
-- Configured Sercurity Groups rules to allow HTTP and SSH access
+- Configured Security Groups rules to allow HTTP and SSH access
 - Generated and secured an SSH key pair
 - Connected via SSH and installed Apache Web Server
 - Verified application availability via public IPv4 address
@@ -54,13 +53,13 @@ An EC2 instance is not usable by default.<br>
 SSH connection failed despite correct inbound rules.
 
 **Diagnosis:**<br>
-AWS configuration was correct. The issues was **local SSH key file permissions.**
+AWS configuration was correct. The issue was **local SSH key file permissions.**
 
 **Resolution:**<br>
 Updated the key pair file to read-only for the owner, restoring SSH access.
 
 **Lesson:**<br>
-EC2 troubleshooting requires checking **both AWS-side configruation and local system permisisons.**
+EC2 troubleshooting requires checking **both AWS-side configuration and local system permissions.**
 
 ---
 
@@ -93,3 +92,5 @@ Amazon S3
 - Documentation committed to GitHub
 
 **Day 3 of 90 — Complete**
+
+
