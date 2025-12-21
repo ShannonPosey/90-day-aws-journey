@@ -1,8 +1,8 @@
 # Day 2 — Identity & Access Management (IAM)
 **90-Day Cloud Engineering Journey**
 
-**Date:**  12/12/2025
-**Time Invested:**  5 hours
+**Date:**  12/12/2025<br>
+**Time Invested:**  5 hours<br>
 **Status:**  Complete
 
 ---
@@ -55,17 +55,17 @@ If permissions are wrong, **nothing else works** - and when something breaks, IA
 ---
 
 ## Problem Solved
-**Issue:**
+**Issue:**<br>
 A user with EC2 permission could not connect to an instance using EC2 Instance Connect.
 
 
-**Diagnosis:**
+**Diagnosis:**<br>
 Permissions appeared correct at a high level but were missing the required **EC2 Instance Connect** action.
 
 **Resolution:**<br>
 Updated the IAM policy to include the missing permission, restoring access immediately.
 
-**Lesson:**
+**Lesson:**<br>
 AWS failures are often permission-related - always inspect IAM policies before troubleshooting infrastructure.
 
 ---
