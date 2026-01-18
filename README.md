@@ -199,8 +199,8 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 
 | Week | Focus Area | Status | Completion |
 |------|-----------|--------|------------|
-| Week 1 | Cloud & AWS Fundamentals | 🔄 In Progress | 80% |
-| Week 2 | VPC & Networking | ⏳ Planned | 0% |
+| Week 1 | Cloud & AWS Fundamentals | ✅ Completed | 100% |
+| Week 2 | VPC & Networking | 🔄 In Progress | 0% |
 | Week 3 | EC2 & Load Balancing | ⏳ Planned | 0% |
 | Week 4 | Databases & Storage | ⏳ Planned | 0% |
 | Week 5 | Terraform & IaC | ⏳ Planned | 0% |
