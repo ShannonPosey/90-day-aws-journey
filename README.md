@@ -2,7 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazon-aws)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-5%2F90-success?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-7%2F90-success?style=for-the-badge)
 
 ## 📖 About My Cloud Journey
 
@@ -221,7 +221,7 @@ This repository documents my intensive 90-day journey to become an AWS Cloud Eng
 - **Day 3:** 12/15/2025 - Launched EC2 instance
 - **Day 4:** 12/16/2025 - S3 bucket creation and static website
 - **Day 5:** 12/22/2025 - Connected EC2 to S3 using IAM roles
-- **Day 6-7:** Weekend review and mini project
+- **Day 6-7:** 01/18/2026 - Weekend review and mini project
 
 ---
 
@@ -378,7 +378,7 @@ I am committed to learning 4 hours every day. I will not give up. Every small st
 
 ---
 
-**Last Updated:** 12/22/2025
+**Last Updated:** 01/18/2026
 **Current Phase:** Phase 1 - Foundations  
 **Next Milestone:** Complete Week 1 Fundamentals
 
